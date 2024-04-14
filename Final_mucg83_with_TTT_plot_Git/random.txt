@@ -1,0 +1,4 @@
+#to check whether git is ignoring it or not
+#Github general access token, to be used in place of password for push and pull
+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
+
