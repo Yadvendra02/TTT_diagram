@@ -1,0 +1,34 @@
+Welcome to the TTT Curve Generator Program. 
+This program is based on the map program mucg83 (http://www.phase-trans.msm.cam.ac.uk/map/steel/programs/mucg83.html), originally written by Prof. H.K.D.H. Bhadeshia.
+This tool allows you to generate and visualize TTT (Time-Temperature-Transformation) curves for a specified composition. 
+The package includes essential files such as "plot_TTT.plt" a Gnuplot script for plotting data, and "execute_TTT.sh" a shell script to execute necessary commands. 
+
+
+Follow these steps to create your TTT diagram:
+
+1)	Modify the "INPUT.DAT" file to reflect your desired composition.
+2)	Execute the script using the command "./execute_TTT.sh".
+3)	Navigate to the OUTPUT folder to locate the generated output files and TTT plot.
+Enjoy exploring your TTT diagrams!
+
+
+
+Modified By:
+Yadvendra
+R&D, Tata Steel
+(gurjaryadvendra02@gmail.com)
+
+
+@Original authors:
+Program:mucg83
+
+Mathew Peet and H.K.D.H. Bhadeshia,
+Phase Transformations and Complex Properties Group,
+Department of Materials Science and Metallurgy,
+University of Cambridge,
+Cambridge, U.K.
+
+Based on mucg46, and mucg73.
+
+For More details visit this website: 
+http://www.phase-trans.msm.cam.ac.uk/map/steel/programs/mucg83.html
